@@ -11,3 +11,10 @@ A map has been created to visualize all data by using Leaflet.js. The map plots 
 
 ## Repository Documentation:
 
+index.html ---> HTML Document where leaflet.js map is placed.
+
+static (Folder) 
+* js (Folder) 
+    * logic.js ---> Javascript for leaflet map
+* css (Folder)
+    * style.css ---> Stylesheet
